@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities{
+    .grayColor{
+        height:35px;
+        background-color:#FAFAFA;
+        color:#727272;
+    }
+}
